@@ -13,8 +13,8 @@ require (
 	github.com/uptrace/bun/dialect/pgdialect v1.1.12
 	github.com/uptrace/bun/driver/pgdriver v1.1.12
 	github.com/x448/float16 v0.8.4
-	gorm.io/driver/postgres v1.5.4
-	gorm.io/gorm v1.25.5
+	gorm.io/driver/postgres v1.5.2
+	gorm.io/gorm v1.25.3
 )
 
 require (
